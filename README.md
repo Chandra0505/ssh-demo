@@ -2,4 +2,4 @@
 
 The repositry contains ssh tutorials.
 
-update it
+update it and put all content in it.
